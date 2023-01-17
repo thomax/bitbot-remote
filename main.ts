@@ -10,4 +10,4 @@ input.onButtonPressed(Button.B, function () {
 input.onLogoEvent(TouchButtonEvent.Pressed, function () {
     radio.sendString("stop")
 })
-radio.setGroup(55)
+radio.setGroup(100)
